@@ -1,0 +1,25 @@
+const books = [{
+  id: 0,
+  name: 'Leopard',
+  author: "Jo Nesbo",
+  imageUrl: "https://images-na.ssl-images-amazon.com/images/I/81XiVtSeU4L.jpg",
+  plot: "After two women are murdered in identical circumstances, Harry Hole finds himself once again at the heart of a serial killer investigation despite his determination not to get involved.",
+  price: 250,
+  rating: 4,
+}, {
+  id: 1,
+  name: 'It',
+  author: "Stephen King",
+  imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71dIjJTeOSL.jpg",
+  plot: "The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears of its victims to disguise itself while hunting its prey.",
+  price: 300,
+  rating: 5,
+}, {
+  id: 2,
+  name: "Flowers for Algernon",
+  author: "Daniel Keyes",
+  imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41oefPXA6kL._SX303_BO1,204,203,200_.jpg",
+  plot: "Flowers for Algernon traces the mental and emotional development of Charlie Gordon, a retarded young man who becomes the first human test-subject for an ambitious brain experiment.",
+  price: 200,
+  rating: 5,
+}];
